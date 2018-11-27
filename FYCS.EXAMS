@@ -2,5 +2,5 @@
 VOID NAME()
 {
 PRINTF("HELLO WORLD");
-  PRINTF("\n THIS FILE IS EDITED");
+  PRINTF("\n this file is edited");
 }
